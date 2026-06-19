@@ -38,3 +38,7 @@ out/
 
 ### Kotlin ###
 .kotlin
+
+resources/application.properties
+.DS_Store
+src/.DS_Store
